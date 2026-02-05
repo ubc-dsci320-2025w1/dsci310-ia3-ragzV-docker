@@ -1,4 +1,4 @@
-# Dockerfile for DSCI 310 IA3
+# Dockerfile for DSCI 310 Individual Assignment 3
 FROM rocker/rstudio:4.4.2
 
 # Copy renv files
